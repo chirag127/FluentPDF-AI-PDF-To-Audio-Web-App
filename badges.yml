@@ -1,25 +1,17 @@
 badges:
   - name: Build Status
-    image_url: "https://github.com/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App/actions/workflows/ci.yml/badge.svg?branch=main"
-    link_url: "https://github.com/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App/actions/workflows/ci.yml"
-    markdown: "[![Build Status](https://github.com/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App/actions/workflows/ci.yml)"
+    url: https://github.com/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App/actions/workflows/ci.yml
+    image: https://img.shields.io/github/actions/workflow/status/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App/ci.yml?style=flat-square
+    markdown: [![Build Status](https://img.shields.io/github/actions/workflow/status/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App/ci.yml?style=flat-square)](https://github.com/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App/actions/workflows/ci.yml)
   - name: Code Coverage
-    image_url: "https://codecov.io/gh/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App/branch/main/graph/badge.svg"
-    link_url: "https://codecov.io/gh/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App"
-    markdown: "[![Code Coverage](https://codecov.io/gh/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App/branch/main/graph/badge.svg)](https://codecov.io/gh/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App)"
-  - name: Tech Stack
-    image_url: "https://img.shields.io/badge/Tech%20Stack-JavaScript%20%7C%20Web%20App%20%7C%20Gemini%20AI-blue?style=flat-square"
-    link_url: "https://github.com/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App"
-    markdown: "![Tech Stack](https://img.shields.io/badge/Tech%20Stack-JavaScript%20%7C%20Web%20App%20%7C%20Gemini%20AI-blue?style=flat-square)"
-  - name: Lint & Format
-    image_url: "https://img.shields.io/badge/Lint%20%26%20Format-Biome-informational?style=flat-square"
-    link_url: "https://biomejs.dev/"
-    markdown: "![Lint & Format](https://img.shields.io/badge/Lint%20%26%20Format-Biome-informational?style=flat-square)"
+    url: https://app.codecov.io/gh/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App
+    image: https://img.shields.io/codecov/c/gh/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App?style=flat-square
+    markdown: [![Code Coverage](https://img.shields.io/codecov/c/gh/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App?style=flat-square)](https://app.codecov.io/gh/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App)
   - name: License
-    image_url: "https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square"
-    link_url: "https://creativecommons.org/licenses/by-nc/4.0/"
-    markdown: "[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)"
+    url: https://github.com/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App/blob/main/LICENSE
+    image: https://img.shields.io/github/license/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App?style=flat-square
+    markdown: [![License](https://img.shields.io/github/license/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App?style=flat-square)](https://github.com/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App/blob/main/LICENSE)
   - name: GitHub Stars
-    image_url: "https://img.shields.io/github/stars/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App?style=flat-square&color=yellow"
-    link_url: "https://github.com/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App/stargazers"
-    markdown: "[![GitHub Stars](https://img.shields.io/github/stars/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App?style=flat-square&color=yellow)](https://github.com/chirag127/FluentPDF-AI-PDF-To-Audio-Web-App/stargazers)"
+    url: https://github.com/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App
+    image: https://img.shields.io/github/stars/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App?style=flat-square
+    markdown: [![GitHub Stars](https://img.shields.io/github/stars/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App?style=flat-square)](https://github.com/chirag127/Spokable-PDF-AI-Driven-Text-to-Speech-Web-App)
