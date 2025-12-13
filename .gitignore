@@ -1,35 +1,46 @@
-# Node.js
-/node_modules
-/dist
-/build
-/out
-/coverage
+# Apex Technical Authority .gitignore for Spokable-PDF-AI-Driven-Text-to-Speech-Web-App
 
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# Node.js and JavaScript
+node_modules/
+webpack.config.js
+package-lock.json
+.next/
+.out/
+build/
+public/
+README.md
 
-# Environment variables
-.env
-.env.local
-.env.*.local
+# TypeScript
+*.tsbuildinfo
+*.d.ts
 
-# IDEs and OS
-.DS_Store
+# IDEs and Editors
 .vscode/
 .idea/
 
-# Vite specific
-.vite/
+# Operating System
+.DS_Store
+Thumbs.db
 
-# Editor directories and files
-.history/
-.pnpm-store/
+# Logs and Temp Files
+.log
+.tmp
+ tmp/
 
-# Test results
-/test-results
+# Security
+.env
+.env.example
 
-# VS Code local history (if any)
-.vscode-test/
+# Badges and Images
+badges/
+images/
+
+# GitHub
+.github/
+.gitlab/
+.bitbucket/
+
+# Other
+__pycache__/
+*.pyc
+*.DS_Store
